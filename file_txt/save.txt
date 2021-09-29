@@ -1,0 +1,9 @@
+Save number 1
+quest_rec 0 0 0
+inven 0 0
+pv 10
+level 1
+is_boss 1
+is_man
+End
+nd

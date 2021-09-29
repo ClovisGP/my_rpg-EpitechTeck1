@@ -1,0 +1,21 @@
+USAGE
+    ./my_rpg
+
+OPTION
+    -h | --help          
+    Display help, this is that.
+    
+DESCRIPTION
+    You must defende a castle and there have
+    waves of ennemies which follow a path
+
+USER INTERACTIONS
+    LEFT CLIC   for every choice in menu.
+    
+CREDIT
+            Arnaud LALANDE
+            Tanguy VIRIOT
+        Amaury DANIS-COUSANDIER
+            Clovis GILLES
+            
+             Good luck ;)

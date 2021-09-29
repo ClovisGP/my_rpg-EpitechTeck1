@@ -1,0 +1,28 @@
+Germain:_Bonjour, tu es enfin reveille(e)._Tout le village s'inquietait.
+#On t'as trouve pres_des grandes_montagnes a L'Est mais
+#je ne faisais pas_partie de l'expedition._Vas voir Altair,_lui t'expliquera mieux.
+#Altair:_Salut, tu t'es reveille,_c'est bien.
+#Oui c'est bien cela,_on t'as trouve_dans les montagnes a l'Est.
+#Ricardo:_Bonjour,_mon nom est Ricardo, je me_suis ecrase avec mon avion et
+#mes amis dans les montagnes.
+#Le fossoyeur:_Salut a tous, ici le fossoyeur.
+#J'ai aucune idee de_ce que je fais la.
+#Amynee:_Salut tu peux m'appeler_la rousse, ou beaute, ou meme... 
+#Je parle trop, non ?
+#Inconnu:_Ah, te revoila,_je ne savais pas_si tu te reveillerais.
+#Mais bref,_je sais pas ou on_a encore atterri mais_on a du boulot.
+#Louise:_Salut, t'es nouveau toi ?_Je t'ai jamais vu.
+#Un conseil,_ne sort pas du village.
+#Faustine:_C'est toi qui es arrive_avec la grande machine.
+#C'etait genial,_la lumiere, le bruit._Comment tu as fait ca ?
+#Aurore:_Bonjour, tu l'as vu ?_Le grand eclair rouge dans le ciel.
+#Tout le monde a vu_l'immense machine._Mais personne n'a vue
+#cet eclair dans le ciel juste avant.
+#Leila:_Salut,_pas besoin de demander,_je sais qui tu es.
+#Toi et ton ami n'etes_pas les premiers a_apparaitre comme ca,_les gens l'ont juste oublie.
+#Je peux te poser_une question,_c'est comment la_d'ou tu viens ?
+#Cassandre:_Tu sais il ne faut_pas se fier aux apparances,_avant,
+#ce village etait une grande_capitale, mais ca,_c'etait avant l'arrive_des monstres.
+#Sanic:_Oh non, il a battu le dragon._Poutine va pas etre content.
+#Ca sert a quoi d'ouvrir_une breche dans l'espace-temps_si ca nous facilite_meme pas la tache
+#Oh non,_il vient vers moi,_tant pis pour le gnome,_je me casse...

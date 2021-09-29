@@ -1,0 +1,29 @@
+--------".enemy" files must be organized like below--------
+name
+type
+weapon
+attack1
+attack2
+attack3
+attack4
+health_perlvl
+sprite_file
+sheet_height
+sheet_width
+fram_per_move
+frame_height
+frame_width
+ingame
+--------".hero" files must be organized like below--------
+attack
+attack
+attack
+attack
+attack
+defence
+PV_max
+PM_max
+PV_perlvl
+PM_perlvl
+XP_perlvl
+XP_factor
